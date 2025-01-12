@@ -57,33 +57,8 @@
 
 ## Cấu trúc thư mục
 
-attendance-system/
-├── backend/
-│   ├── app.py
-│   └── ai_module.py
-├── frontend/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── styles.css
-│   │   └── js/
-│   │   │   └── scripts.js (nếu có)
-│   │   └── images/
-│   │       └── 1.jpg
-│   └── templates/
-│       ├── index.html
-│       ├── login.html
-│       ├── register.html
-│       ├── teacher.html
-│       ├── student.html      
-└── database/
-    └── init.sql
-└── uploads/
-    ├── <class_id>/ (video của từng lớp)
-    │   └── <video_file>.mp4
-    └── faces/
-        └── <student_id>/ (ảnh của từng sinh viên)
-            └── <image_file>.jpg/png
-└── requirements.txt
+![Screenshot 2025-01-13 011627](https://github.com/user-attachments/assets/2fc9c9ab-87f2-484c-bbf8-9cb92498515c)
+
 
 ## Chạy ứng dụng
 
