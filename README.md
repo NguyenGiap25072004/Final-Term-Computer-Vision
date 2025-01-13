@@ -120,6 +120,9 @@
 *   Thêm chức năng thông báo kết quả điểm danh cho sinh viên.
 *   Phát triển ứng dụng di động.
 *   Thêm chức năng quản lý người dùng, phân quyền.
+## Video demo của dự án:
+
+Bạn có thể click vào link sau để xem video demo của dự án: https://youtu.be/UjjFG4qHtZ0
 
 ## Thông tin liên hệ
 *   **Nhóm**: Nguyễn Hữu Giáp + Nguyễn Cảnh Hưng + Nguyễn Chí Nhân + Hoàng Thiện Quang
